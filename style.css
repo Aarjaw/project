@@ -7,3 +7,15 @@
     display: none;
   }
 }
+
+.logo-i {
+  font-family: promorius;
+  font-size: 20px;
+  color: #000;
+}
+
+.logo {
+  font-family: bariaki;
+  font-size: 20px;
+  color: #f60808;
+}
